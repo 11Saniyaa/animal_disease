@@ -1,0 +1,201 @@
+animal,disease,fever,cough,diarrhea,vomiting,lethargy,rash,swelling,loss_of_appetite,recommendation
+Horse,Laminitis,1,1,1,1,0,1,0,1,Restrict movement and cold therapy.
+Cat,Rabies,0,1,0,0,1,0,1,0,Isolate and seek veterinary help immediately.
+Cow,Foot and Mouth Disease,1,0,1,0,1,0,0,1,Disinfect surroundings and isolate infected animals.
+Cow,Mastitis,1,1,1,0,1,0,1,0,Use antibiotics and clean udder regularly.
+Cow,Bloat,1,1,0,0,1,1,0,1,Avoid diet changes and administer anti-bloat medication.
+Goat,Foot Rot,1,0,1,0,0,0,0,0,Foot baths and antibiotics.
+Goat,Orf,1,0,1,1,1,0,0,0,Use topical ointments and isolate infected goats.
+Cat,Toxoplasmosis,1,1,1,0,1,0,1,0,Antibiotic treatment and hygiene maintenance.
+Horse,Colic,1,0,0,0,1,1,1,1,Do not feed and consult a vet immediately.
+Goat,Orf,0,1,0,0,1,0,0,0,Use topical ointments and isolate infected goats.
+Chicken,Avian Influenza,0,0,0,0,1,1,0,1,Notify authorities and cull affected birds.
+Dog,Distemper,0,1,1,1,0,0,0,1,Supportive care and antibiotics to prevent secondary infections.
+Cat,Feline Calicivirus,0,1,1,1,1,0,1,1,Fluids and pain relief.
+Cow,Mastitis,0,1,1,1,1,0,0,0,Use antibiotics and clean udder regularly.
+Dog,Lyme Disease,1,0,0,0,0,0,0,1,Use tick prevention and antibiotics.
+Horse,Tetanus,1,1,0,0,1,1,0,0,Vaccinate and treat wounds promptly.
+Dog,Rabies,0,1,1,0,0,0,1,0,Immediate vet attention and notify local authorities.
+Chicken,Marek’s Disease,0,1,0,0,0,1,1,1,Vaccinate chicks early.
+Cat,Toxoplasmosis,0,0,0,0,0,0,1,1,Antibiotic treatment and hygiene maintenance.
+Cat,Toxoplasmosis,0,0,1,1,0,0,0,0,Antibiotic treatment and hygiene maintenance.
+Chicken,Avian Influenza,0,0,1,0,1,0,1,1,Notify authorities and cull affected birds.
+Cow,Mastitis,1,1,1,0,1,1,1,0,Use antibiotics and clean udder regularly.
+Horse,Laminitis,1,1,1,1,1,1,1,0,Restrict movement and cold therapy.
+Goat,Foot Rot,1,1,1,0,1,0,1,1,Foot baths and antibiotics.
+Cat,Rabies,0,0,0,0,0,1,0,0,Isolate and seek veterinary help immediately.
+Chicken,Fowl Pox,1,1,1,1,0,1,0,0,Isolate and apply iodine on lesions.
+Horse,Equine Influenza,0,0,0,0,1,0,0,0,Allow rest and use anti-inflammatories.
+Horse,Equine Influenza,1,1,0,1,0,1,1,1,Allow rest and use anti-inflammatories.
+Cat,Feline Leukemia,1,0,0,1,1,1,0,1,Regular vet checks and antiviral medications.
+Cat,Rabies,0,0,0,1,1,0,0,1,Isolate and seek veterinary help immediately.
+Cow,Anthrax,0,0,0,1,0,0,1,0,Avoid exposure and seek immediate vet attention.
+Dog,Kennel Cough,1,0,1,0,1,0,1,1,Provide rest and use prescribed antibiotics.
+Cat,Feline Calicivirus,0,0,0,0,0,1,0,1,Fluids and pain relief.
+Horse,Colic,0,1,0,1,1,1,1,0,Do not feed and consult a vet immediately.
+Chicken,Avian Influenza,0,1,1,1,1,1,0,0,Notify authorities and cull affected birds.
+Cow,Mastitis,1,1,0,0,1,1,1,1,Use antibiotics and clean udder regularly.
+Dog,Distemper,0,0,1,0,1,0,0,0,Supportive care and antibiotics to prevent secondary infections.
+Dog,Distemper,0,0,1,0,1,0,0,0,Supportive care and antibiotics to prevent secondary infections.
+Cow,Foot and Mouth Disease,0,1,0,0,1,0,1,1,Disinfect surroundings and isolate infected animals.
+Chicken,Avian Influenza,1,1,1,0,1,0,0,0,Notify authorities and cull affected birds.
+Cow,Bloat,1,0,1,0,0,1,0,0,Avoid diet changes and administer anti-bloat medication.
+Horse,Equine Influenza,1,1,0,1,0,0,0,0,Allow rest and use anti-inflammatories.
+Dog,Rabies,1,0,0,1,1,1,1,1,Immediate vet attention and notify local authorities.
+Chicken,Fowl Pox,1,0,1,1,0,1,1,0,Isolate and apply iodine on lesions.
+Chicken,Newcastle Disease,1,1,1,1,0,0,0,0,Vaccinate and isolate infected birds.
+Horse,Colic,1,0,0,0,0,0,1,0,Do not feed and consult a vet immediately.
+Horse,Laminitis,1,1,0,0,1,0,1,0,Restrict movement and cold therapy.
+Cat,Rabies,0,0,1,1,0,0,1,0,Isolate and seek veterinary help immediately.
+Goat,Orf,0,1,0,1,0,0,1,0,Use topical ointments and isolate infected goats.
+Cat,Toxoplasmosis,0,1,1,0,1,1,1,0,Antibiotic treatment and hygiene maintenance.
+Horse,Laminitis,0,0,0,1,1,1,1,0,Restrict movement and cold therapy.
+Chicken,Marek’s Disease,0,1,1,0,1,0,1,1,Vaccinate chicks early.
+Goat,Foot Rot,1,1,1,0,0,0,0,1,Foot baths and antibiotics.
+Goat,Orf,0,0,0,1,1,1,0,0,Use topical ointments and isolate infected goats.
+Horse,Colic,0,1,0,0,0,0,1,1,Do not feed and consult a vet immediately.
+Cow,Anthrax,0,0,1,1,0,0,1,0,Avoid exposure and seek immediate vet attention.
+Horse,Colic,1,0,0,0,0,1,0,1,Do not feed and consult a vet immediately.
+Horse,Colic,1,1,1,0,0,1,0,1,Do not feed and consult a vet immediately.
+Horse,Equine Influenza,0,0,0,1,1,1,0,1,Allow rest and use anti-inflammatories.
+Dog,Lyme Disease,1,1,0,1,1,0,0,1,Use tick prevention and antibiotics.
+Cow,Bloat,1,1,1,1,0,1,1,0,Avoid diet changes and administer anti-bloat medication.
+Chicken,Newcastle Disease,0,0,0,1,0,0,0,1,Vaccinate and isolate infected birds.
+Chicken,Marek’s Disease,1,0,1,1,0,0,1,0,Vaccinate chicks early.
+Dog,Rabies,1,0,1,1,1,0,0,0,Immediate vet attention and notify local authorities.
+Cat,Toxoplasmosis,0,0,0,1,1,0,1,1,Antibiotic treatment and hygiene maintenance.
+Chicken,Fowl Pox,0,1,1,1,0,1,0,1,Isolate and apply iodine on lesions.
+Cat,Feline Herpesvirus,0,0,1,0,0,1,1,0,Humidifier use and antiviral medications.
+Dog,Rabies,0,0,1,0,0,1,1,0,Immediate vet attention and notify local authorities.
+Cat,Feline Leukemia,0,1,1,1,1,1,0,0,Regular vet checks and antiviral medications.
+Cat,Feline Herpesvirus,1,0,1,1,1,1,1,0,Humidifier use and antiviral medications.
+Chicken,Fowl Pox,0,1,0,1,0,0,0,0,Isolate and apply iodine on lesions.
+Dog,Distemper,0,0,0,1,0,0,1,1,Supportive care and antibiotics to prevent secondary infections.
+Dog,Lyme Disease,0,1,0,0,1,0,1,0,Use tick prevention and antibiotics.
+Chicken,Fowl Pox,1,0,1,1,0,1,1,0,Isolate and apply iodine on lesions.
+Goat,Foot Rot,0,1,1,1,0,1,1,1,Foot baths and antibiotics.
+Cat,Feline Calicivirus,1,0,1,0,1,1,1,0,Fluids and pain relief.
+Goat,Foot Rot,0,0,0,0,1,0,0,0,Foot baths and antibiotics.
+Cat,Rabies,0,1,1,0,1,0,1,1,Isolate and seek veterinary help immediately.
+Cat,Feline Herpesvirus,0,0,0,1,0,0,0,0,Humidifier use and antiviral medications.
+Cow,Bloat,0,1,0,1,0,0,1,1,Avoid diet changes and administer anti-bloat medication.
+Dog,Rabies,1,1,1,1,1,1,0,1,Immediate vet attention and notify local authorities.
+Chicken,Newcastle Disease,1,0,0,1,1,0,1,0,Vaccinate and isolate infected birds.
+Chicken,Newcastle Disease,0,0,1,1,0,1,1,1,Vaccinate and isolate infected birds.
+Dog,Parvovirus,1,1,1,0,0,1,0,0,"Isolate the dog, provide fluids, and administer antivirals."
+Dog,Rabies,1,1,1,0,1,0,1,1,Immediate vet attention and notify local authorities.
+Cat,Toxoplasmosis,1,0,0,0,0,1,1,1,Antibiotic treatment and hygiene maintenance.
+Dog,Distemper,1,0,0,0,0,0,0,0,Supportive care and antibiotics to prevent secondary infections.
+Dog,Lyme Disease,0,1,1,1,0,0,0,1,Use tick prevention and antibiotics.
+Cat,Feline Calicivirus,0,1,1,0,0,0,0,1,Fluids and pain relief.
+Goat,Caseous Lymphadenitis,1,1,0,0,1,0,1,0,Cull infected animals and disinfect.
+Cat,Feline Calicivirus,1,1,0,0,0,1,0,0,Fluids and pain relief.
+Chicken,Marek’s Disease,1,1,1,0,0,0,0,1,Vaccinate chicks early.
+Chicken,Marek’s Disease,0,0,0,1,0,1,0,1,Vaccinate chicks early.
+Cow,Brucellosis,0,0,0,1,0,0,0,0,Vaccinate and isolate infected animals.
+Dog,Distemper,0,0,0,0,1,0,0,0,Supportive care and antibiotics to prevent secondary infections.
+Cat,Feline Calicivirus,1,0,0,0,0,0,0,0,Fluids and pain relief.
+Cow,Bloat,1,0,1,0,0,1,0,0,Avoid diet changes and administer anti-bloat medication.
+Cow,Bloat,0,0,1,0,1,0,0,0,Avoid diet changes and administer anti-bloat medication.
+Goat,Enterotoxemia,1,1,1,1,0,1,0,0,Vaccinate regularly and adjust diet slowly.
+Horse,Tetanus,1,1,0,0,1,0,1,0,Vaccinate and treat wounds promptly.
+Goat,Enterotoxemia,1,1,1,1,1,0,0,1,Vaccinate regularly and adjust diet slowly.
+Dog,Kennel Cough,1,1,0,0,1,0,1,0,Provide rest and use prescribed antibiotics.
+Dog,Parvovirus,1,1,1,0,0,1,0,1,"Isolate the dog, provide fluids, and administer antivirals."
+Horse,Colic,1,1,1,1,0,0,0,0,Do not feed and consult a vet immediately.
+Goat,Caseous Lymphadenitis,0,0,0,0,1,1,0,0,Cull infected animals and disinfect.
+Dog,Lyme Disease,1,1,0,0,0,0,0,1,Use tick prevention and antibiotics.
+Horse,Equine Influenza,0,1,1,1,1,1,0,1,Allow rest and use anti-inflammatories.
+Horse,Strangles,0,0,0,0,0,1,0,1,Isolate and administer antibiotics.
+Goat,Caseous Lymphadenitis,0,1,0,0,1,0,1,0,Cull infected animals and disinfect.
+Horse,Equine Influenza,1,1,1,0,1,1,0,0,Allow rest and use anti-inflammatories.
+Dog,Rabies,0,1,1,1,1,0,1,1,Immediate vet attention and notify local authorities.
+Cat,Toxoplasmosis,0,1,0,1,1,0,1,0,Antibiotic treatment and hygiene maintenance.
+Cat,Toxoplasmosis,0,1,0,1,1,1,1,0,Antibiotic treatment and hygiene maintenance.
+Cow,Bloat,0,1,0,1,1,1,1,0,Avoid diet changes and administer anti-bloat medication.
+Cow,Mastitis,1,0,0,0,1,0,0,0,Use antibiotics and clean udder regularly.
+Goat,PPR,0,0,1,0,1,1,0,1,Vaccinate and provide supportive care.
+Cow,Brucellosis,0,0,1,0,1,1,0,1,Vaccinate and isolate infected animals.
+Cat,Feline Calicivirus,1,1,1,0,0,1,0,0,Fluids and pain relief.
+Chicken,Marek’s Disease,0,1,1,1,1,0,0,1,Vaccinate chicks early.
+Goat,PPR,0,1,0,0,1,0,0,0,Vaccinate and provide supportive care.
+Cow,Foot and Mouth Disease,0,1,1,1,0,0,0,0,Disinfect surroundings and isolate infected animals.
+Horse,Strangles,0,0,1,0,1,1,1,1,Isolate and administer antibiotics.
+Dog,Rabies,1,1,1,1,0,1,1,0,Immediate vet attention and notify local authorities.
+Cat,Feline Calicivirus,0,1,1,1,0,1,0,0,Fluids and pain relief.
+Horse,Equine Influenza,1,0,1,0,0,0,1,1,Allow rest and use anti-inflammatories.
+Goat,Orf,1,0,0,1,0,0,1,1,Use topical ointments and isolate infected goats.
+Chicken,Fowl Pox,0,0,1,1,1,1,0,0,Isolate and apply iodine on lesions.
+Cow,Bloat,1,0,0,0,0,1,1,1,Avoid diet changes and administer anti-bloat medication.
+Dog,Rabies,0,1,1,0,0,0,1,1,Immediate vet attention and notify local authorities.
+Dog,Lyme Disease,0,0,0,0,1,1,0,1,Use tick prevention and antibiotics.
+Cat,Toxoplasmosis,0,0,1,1,1,0,1,0,Antibiotic treatment and hygiene maintenance.
+Goat,PPR,0,0,1,1,0,1,1,0,Vaccinate and provide supportive care.
+Dog,Parvovirus,0,0,0,1,0,0,1,0,"Isolate the dog, provide fluids, and administer antivirals."
+Horse,Laminitis,0,1,0,0,0,1,1,1,Restrict movement and cold therapy.
+Horse,Colic,1,0,0,1,1,0,1,1,Do not feed and consult a vet immediately.
+Cat,Feline Leukemia,1,0,1,0,0,0,1,0,Regular vet checks and antiviral medications.
+Dog,Parvovirus,1,0,1,1,0,1,0,0,"Isolate the dog, provide fluids, and administer antivirals."
+Dog,Lyme Disease,1,1,0,0,0,0,0,0,Use tick prevention and antibiotics.
+Horse,Laminitis,0,1,0,1,1,1,0,1,Restrict movement and cold therapy.
+Chicken,Coccidiosis,1,1,0,1,0,0,0,0,Use anti-coccidial drugs and maintain hygiene.
+Cow,Anthrax,1,1,0,1,0,0,0,1,Avoid exposure and seek immediate vet attention.
+Dog,Lyme Disease,0,0,0,0,1,1,1,1,Use tick prevention and antibiotics.
+Goat,PPR,1,1,0,1,0,0,0,0,Vaccinate and provide supportive care.
+Goat,Foot Rot,1,1,1,0,0,0,1,0,Foot baths and antibiotics.
+Dog,Parvovirus,0,1,1,1,1,0,1,1,"Isolate the dog, provide fluids, and administer antivirals."
+Goat,Foot Rot,1,1,1,0,1,0,1,1,Foot baths and antibiotics.
+Cat,Feline Herpesvirus,0,1,0,1,1,1,1,0,Humidifier use and antiviral medications.
+Dog,Distemper,0,0,1,0,0,1,0,1,Supportive care and antibiotics to prevent secondary infections.
+Cow,Foot and Mouth Disease,1,1,0,1,1,0,1,1,Disinfect surroundings and isolate infected animals.
+Cat,Toxoplasmosis,1,0,1,1,0,0,0,1,Antibiotic treatment and hygiene maintenance.
+Horse,Colic,0,1,0,1,1,1,0,0,Do not feed and consult a vet immediately.
+Cat,Feline Leukemia,1,0,1,1,0,1,1,1,Regular vet checks and antiviral medications.
+Cow,Brucellosis,0,0,1,0,1,1,1,1,Vaccinate and isolate infected animals.
+Cow,Anthrax,0,1,0,1,0,1,0,1,Avoid exposure and seek immediate vet attention.
+Horse,Colic,1,0,1,0,0,1,1,1,Do not feed and consult a vet immediately.
+Horse,Strangles,1,0,0,0,1,0,0,1,Isolate and administer antibiotics.
+Chicken,Fowl Pox,1,1,1,1,0,1,1,1,Isolate and apply iodine on lesions.
+Horse,Tetanus,1,0,1,0,0,1,1,1,Vaccinate and treat wounds promptly.
+Dog,Kennel Cough,1,1,1,1,0,0,1,0,Provide rest and use prescribed antibiotics.
+Cow,Anthrax,1,0,0,0,1,0,1,0,Avoid exposure and seek immediate vet attention.
+Dog,Rabies,0,0,1,1,1,0,1,1,Immediate vet attention and notify local authorities.
+Chicken,Newcastle Disease,0,0,0,1,1,1,1,1,Vaccinate and isolate infected birds.
+Cat,Toxoplasmosis,0,0,0,1,1,1,1,1,Antibiotic treatment and hygiene maintenance.
+Horse,Equine Influenza,1,0,1,0,1,0,0,0,Allow rest and use anti-inflammatories.
+Dog,Kennel Cough,0,1,0,0,1,1,1,1,Provide rest and use prescribed antibiotics.
+Horse,Laminitis,0,1,0,0,1,0,1,0,Restrict movement and cold therapy.
+Cow,Brucellosis,0,0,0,1,1,0,0,0,Vaccinate and isolate infected animals.
+Dog,Lyme Disease,0,1,0,0,0,0,1,0,Use tick prevention and antibiotics.
+Cow,Mastitis,0,1,1,0,0,1,1,1,Use antibiotics and clean udder regularly.
+Horse,Tetanus,0,0,0,0,0,0,1,0,Vaccinate and treat wounds promptly.
+Horse,Colic,0,1,0,1,1,1,0,0,Do not feed and consult a vet immediately.
+Cat,Feline Herpesvirus,0,0,0,1,0,0,1,1,Humidifier use and antiviral medications.
+Goat,Orf,1,1,0,1,1,1,0,1,Use topical ointments and isolate infected goats.
+Chicken,Coccidiosis,1,0,0,1,1,0,1,1,Use anti-coccidial drugs and maintain hygiene.
+Cat,Toxoplasmosis,0,0,1,1,1,0,0,1,Antibiotic treatment and hygiene maintenance.
+Cow,Brucellosis,1,0,1,0,0,1,1,0,Vaccinate and isolate infected animals.
+Chicken,Coccidiosis,0,1,0,1,0,1,1,1,Use anti-coccidial drugs and maintain hygiene.
+Dog,Rabies,1,1,0,0,0,1,0,0,Immediate vet attention and notify local authorities.
+Cow,Mastitis,1,1,1,0,1,1,0,1,Use antibiotics and clean udder regularly.
+Horse,Tetanus,0,1,1,1,0,0,0,0,Vaccinate and treat wounds promptly.
+Horse,Strangles,0,0,1,0,1,0,1,0,Isolate and administer antibiotics.
+Chicken,Marek’s Disease,1,0,1,0,1,1,1,0,Vaccinate chicks early.
+Horse,Equine Influenza,1,1,0,1,1,0,1,0,Allow rest and use anti-inflammatories.
+Horse,Equine Influenza,0,1,1,0,0,0,1,1,Allow rest and use anti-inflammatories.
+Goat,Foot Rot,1,1,0,1,0,0,0,0,Foot baths and antibiotics.
+Horse,Strangles,1,0,0,0,0,0,0,1,Isolate and administer antibiotics.
+Chicken,Fowl Pox,1,0,0,1,1,1,0,0,Isolate and apply iodine on lesions.
+Goat,Foot Rot,0,1,0,0,1,0,0,1,Foot baths and antibiotics.
+Goat,Orf,0,0,0,1,1,0,0,1,Use topical ointments and isolate infected goats.
+Dog,Distemper,1,1,0,1,0,1,0,1,Supportive care and antibiotics to prevent secondary infections.
+Cow,Anthrax,0,0,1,0,0,0,0,1,Avoid exposure and seek immediate vet attention.
+Cow,Bloat,1,1,1,1,0,0,1,1,Avoid diet changes and administer anti-bloat medication.
+Dog,Rabies,1,1,0,0,1,0,0,0,Immediate vet attention and notify local authorities.
+Dog,Distemper,1,1,1,1,0,0,0,1,Supportive care and antibiotics to prevent secondary infections.
+Horse,Tetanus,1,1,1,0,0,1,0,0,Vaccinate and treat wounds promptly.
+Goat,Caseous Lymphadenitis,0,0,1,1,0,1,0,1,Cull infected animals and disinfect.
+Horse,Strangles,0,0,0,0,1,0,0,0,Isolate and administer antibiotics.
+Chicken,Coccidiosis,1,1,0,0,1,0,1,1,Use anti-coccidial drugs and maintain hygiene.
+Cow,Bloat,1,1,1,0,1,1,0,0,Avoid diet changes and administer anti-bloat medication.
+Chicken,Marek’s Disease,1,0,1,0,0,1,1,0,Vaccinate chicks early.
